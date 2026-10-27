@@ -1,5 +1,9 @@
 # Feed It Out Productions Android App
 
+<p align="center">
+  <img src=".github/logo.png" alt="feeditout-productions-android-app logo" width="128" />
+</p>
+
 An Android app that lists the apps published by Feed It Out Productions.
 
 ## What it does
